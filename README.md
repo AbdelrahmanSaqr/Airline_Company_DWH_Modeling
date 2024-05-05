@@ -1,4 +1,4 @@
-# Airline System Analysis and Modeling
+# Airline System Modeling and Analysis
 
 ## Project Overview:
 A major airline company aims to analyze its current business processes and explore growth opportunities through data analysis. This involves analyzing flight activities, frequent flyer behaviors, reservation processes, and customer interactions.
